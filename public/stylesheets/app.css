@@ -1,0 +1,20 @@
+/*i.icon {*/
+/*    font-size: 2em;*/
+/*}*/
+
+#delete {
+    display: inline;
+}
+
+.container.main {
+    margin-top: 6.0em;
+}
+
+.date {
+    font-size: 0.75em;
+    font-style: italic;
+}
+
+.extra.buttons {
+    margin-top: 0.70em;
+}
